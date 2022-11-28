@@ -70,17 +70,19 @@ body {
     float: right;
     margin-left: 25px;
 }
-
+/* Added a left padding propety */
 .content {
+    padding-left: 10px;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
     margin-right: 40px;
 }
 
+/* Reduced the padding to make it visually appealing */
 .benefits {
-    margin-right: 20px;
-    padding: 40px;
+    margin-right: 40px;
+    padding: 23px;
     clear: both;
     float: right;
     width: 20%;
